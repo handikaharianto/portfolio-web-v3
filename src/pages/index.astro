@@ -9,5 +9,14 @@ import Layout from "@layouts/Layout.astro";
 
 <Layout title="Han">
   <Hero />
-  <Contact />
+  <Contact client:visible />
 </Layout>
+
+<style is:global>
+  .rfm-initial-child-container {
+    width: 100%;
+  }
+  .rfm-child {
+    width: 100%;
+  }
+</style>
