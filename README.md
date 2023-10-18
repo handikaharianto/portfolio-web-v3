@@ -13,3 +13,8 @@
 - [ ] Latest blog post
 - [ ] Blog search
 - [ ] Blog posts
+
+## Others
+
+- [ ] Hide scrollbar
+- [ ] Modify text highlight color
